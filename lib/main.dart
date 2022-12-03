@@ -82,7 +82,7 @@ class _TipCalculatorState extends State<TipCalculator> {
                         prefixText: "Bill Amount: ",
                         prefixIcon: Container(
                           padding:
-                              EdgeInsetsDirectional.only(start: 13, top: 4),
+                              EdgeInsetsDirectional.only(start: 13, top: 6),
                           child: Text(
                             '\u{20B9}',
                             style: TextStyle(
